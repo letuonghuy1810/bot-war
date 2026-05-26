@@ -11,8 +11,8 @@ from telegram.ext import (
 )
 
 # ===== CONFIG =====
-BOT_TOKEN = "TOKEN_BOT"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8890299444:AAEe2iSWtgkGuP0qDMOtKkxJYmyQKIpxBZo"
+ADMIN_ID = 7059122227
 
 DATA_FILE = "targets.json"
 
